@@ -1,6 +1,4 @@
-# DioGrid
-## OCaml Version
-Found in the `ocaml` directory.
+# DioGrid - Not Actively Maintained moved to https://github.com/malciller/dio?tab=readme-ov-file
 
 Follow DioGrid's Performance: https://portfolio.diophantsolutions.com
 
